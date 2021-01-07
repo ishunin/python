@@ -1,1 +1,1 @@
-print('привет version 2')
+print('привет version 22')
