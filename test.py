@@ -1,1 +1,1 @@
-print('привет получилось22у PULL')
+print('привет получилось22у PULweweqweqwL')
